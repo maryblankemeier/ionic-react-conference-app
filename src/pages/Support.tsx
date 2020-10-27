@@ -35,7 +35,7 @@ const Support: React.FC<SupportProps> = () => {
           <IonButtons slot="start">
             <IonMenuButton></IonMenuButton>
           </IonButtons>
-          <IonTitle>Support</IonTitle>
+          <IonTitle>Suppor</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
